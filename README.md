@@ -3,16 +3,16 @@ book
 
 书签
 ===========
-* AlloyPhoto 简约版 1.0<br/>
+### AlloyPhoto 简约版 1.0<br/>
 * 1、http://alloyteam.github.io/AlloyPhoto/alloyphoto.html# 
-* AlloyPhoto<br/>
+### AlloyPhoto<br/>
 * 2、http://alloyteam.github.io/AlloyPhoto/     
-* 8个超炫的 Web 效果<br/>
+### 8个超炫的 Web 效果<br/>
 * 3、http://codepen.io/anon/pen/kFEHf <br/>
 * 4、http://www.cnblogs.com/lhb25/p/8-amazing-codepen-demos.html   
-* 惊艳！9个不可思议的 HTML5 Canvas 应用试验<br/>
+### 惊艳！9个不可思议的 HTML5 Canvas 应用试验<br/>
 * 5、http://www.cnblogs.com/lhb25/p/html5-canvas-demos.html  
-* se7en<br/>
+### se7en<br/>
 * 6、http://www.zi-han.net/theme/se7en/datatables-editable.html  
-* 手机自适应<br/>
+### 手机自适应<br/>
 * 7、http://cnratchet.com/      
