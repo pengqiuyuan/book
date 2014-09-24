@@ -23,4 +23,5 @@ se7en<br/>
 * http://www.ctocio.com/ccnews/14959.html  Cloudera为Hadoop带来机器学习开源工具Oryx
 * http://www.ctocio.com/ccnews/14956.html  Spark取代MapReduce成为Apache顶级项目
 * http://www.w3cschool.cc/bootstrap/bootstrap-v2-carousel-plugin.html  bootstrap教程
+* http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/  怎样花两年时间去面试一个人
 
