@@ -20,4 +20,5 @@ se7en<br/>
 * http://www.cnblogs.com/lhb25/p/waves-click-effect.html  Waves – 赞！超炫交互体验的点击动画效果
 * http://www.yyyweb.com/demo/waves/index.html  
 * http://stackoverflow.com/questions/15177270/morris-js-and-datepicker-dynamic-charts   morris.js
+* http://www.ctocio.com/ccnews/14959.html  Cloudera为Hadoop带来机器学习开源工具Oryx
 
