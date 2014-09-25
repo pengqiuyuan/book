@@ -33,4 +33,5 @@ se7en<br/>
 * http://www.iteye.com/problems/84238   
   var tt=new Date(parseInt(o)).toLocaleDateString().replace(/年|月/g, "-").replace(/日/g, " ")  
 * http://www.guoxk.com/node/jquery-datatables   jQuery的DataTables插件的使用方法
+* http://www.cnblogs.com/wmmang-blog/archive/2013/04/11/3014169.html dataTable使用sAjaxSource请求数据的操作
 
