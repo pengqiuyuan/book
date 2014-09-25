@@ -32,4 +32,5 @@ se7en<br/>
 * http://msdwd.blog.163.com/blog/static/2159191362014624114143862/     jQuery获取当前时间为准前两周周一的日期及获取星期与日期的对应关系  
 * http://www.iteye.com/problems/84238   
   var tt=new Date(parseInt(o)).toLocaleDateString().replace(/年|月/g, "-").replace(/日/g, " ")  
+* http://www.guoxk.com/node/jquery-datatables   jQuery的DataTables插件的使用方法
 
