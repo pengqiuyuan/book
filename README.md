@@ -29,4 +29,7 @@ se7en<br/>
 * http://blog.fens.me/nodejs-async-windjs/  wind.js助力异步编程
 * http://blog.zhaojie.me/  老赵
 * https://disqus.com/home/account  disqus
+* http://msdwd.blog.163.com/blog/static/2159191362014624114143862/     jQuery获取当前时间为准前两周周一的日期及获取星期与日期的对应关系  
+* http://www.iteye.com/problems/84238   
+  var tt=new Date(parseInt(o)).toLocaleDateString().replace(/年|月/g, "-").replace(/日/g, " ")  
 
