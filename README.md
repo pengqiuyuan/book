@@ -26,4 +26,5 @@ se7en<br/>
 * http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/  怎样花两年时间去面试一个人
 * http://www.programmer.com.cn/13844/   Node.js的核心与红利
 * http://www.zhihu.com/question/20262642  事实上，这部分的源代码正是copy自nginx
+* http://blog.fens.me/nodejs-async-windjs/  wind.js助力异步编程
 
