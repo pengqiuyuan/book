@@ -27,4 +27,6 @@ se7en<br/>
 * http://www.programmer.com.cn/13844/   Node.js的核心与红利
 * http://www.zhihu.com/question/20262642  事实上，这部分的源代码正是copy自nginx
 * http://blog.fens.me/nodejs-async-windjs/  wind.js助力异步编程
+* http://blog.zhaojie.me/  老赵
+* https://disqus.com/home/account  disqus
 
