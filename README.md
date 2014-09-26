@@ -35,4 +35,5 @@ se7en<br/>
 * http://www.guoxk.com/node/jquery-datatables   jQuery的DataTables插件的使用方法
 * http://www.cnblogs.com/wmmang-blog/archive/2013/04/11/3014169.html dataTable使用sAjaxSource请求数据的操作
 * http://www.guokr.com/question/338135/ 数据挖掘
+* http://blog.csdn.net/yangbutao/article/details/8505270 单线程、事件驱动、异步非阻塞的nginx
 
