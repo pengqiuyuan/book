@@ -39,4 +39,5 @@ se7en<br/>
 * http://www.cnblogs.com/lhb25/archive/2013/01/06/jquery-image-carousel-effect.html 轮播
 * http://getbootstrap.com/css/?#forms-example  getbootstrap
 * https://www.gitbook.io/book/chenryn/kibana-guide-cn  kibana
+* http://zhumeng8337797.blog.163.com/blog/static/10076891420142712316899/   
 
