@@ -37,4 +37,5 @@ se7en<br/>
 * http://www.guokr.com/question/338135/ 数据挖掘
 * http://blog.csdn.net/yangbutao/article/details/8505270 单线程、事件驱动、异步非阻塞的nginx
 * http://www.cnblogs.com/lhb25/archive/2013/01/06/jquery-image-carousel-effect.html 轮播
+* http://getbootstrap.com/css/?#forms-example  getbootstrap
 
